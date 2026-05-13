@@ -1,0 +1,10 @@
+poetry==2.3.4
+pandera==0.31.1
+pandera-forge==1.1.0
+pandera-alchemy==1.1.0
+aiohttp==3.13.5
+python-xbrl==1.1.1
+xbrl-forge==0.0.18
+pytest-timeout==2.4.0
+playwright==1.59.1
+selenium==4.44.0
