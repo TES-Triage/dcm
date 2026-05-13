@@ -1,4 +1,4 @@
-poetry==2.3.4
+poetry>=2.3.4
 pandera==0.31.1
 pandera-forge==1.1.0
 pandera-alchemy==1.1.0
